@@ -1,0 +1,11 @@
+numpy
+notebook
+jupyter_contrib_nbextensions
+jupyter_nbextensions_configurator
+torch==1.7.1
+matplotlib>=2.0.2
+torchtext==0.8.1
+seaborn>=0.8.1
+tensorboardX>=1.1
+pandas
+transformers
